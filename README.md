@@ -1,4 +1,4 @@
-# Project 2 - Flixster
+# Flixster
 
 Samyutha Potharaju
 Flixster is a movie browsing app that displays movie data. 
